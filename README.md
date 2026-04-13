@@ -80,14 +80,6 @@ Enjoy 15+ games across multiple categories:
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here)*
-
-```md
-![Home Screen](./screenshots/home.png)
-![Game View](./screenshots/game.png)
-
 
 # Clone the repo
 git clone https://github.com/your-username/pixel-play.git
